@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 1013_StudentService_For_Zuul
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jagadish.sanjeevi
+Implementation-Vendor-Id: com.lkm.accenture
+Build-Jdk: 1.8.0_221
+Implementation-URL: http://projects.spring.io/spring-boot/1013_Student
+ Service_For_Zuul/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
